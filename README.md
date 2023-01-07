@@ -1,5 +1,5 @@
 
-# <h1 align="center">Hi 👋, I'm Ramuel</h1>
+# <h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Ramuel</h1>
 <h3 align="center">A Passionate Front-End Developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
